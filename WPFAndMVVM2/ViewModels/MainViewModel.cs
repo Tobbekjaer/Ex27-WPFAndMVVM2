@@ -21,7 +21,6 @@ namespace WPFAndMVVM2.ViewModels
 
         // Implement the rest of this MainViewModel class below to 
         // establish the foundation for data binding !
-
         public PersonViewModel SelectedPerson { get; set; }
         public ObservableCollection<PersonViewModel> PersonsVM { get; set; }
        
